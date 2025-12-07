@@ -1,31 +1,37 @@
 # Cześć, tu hsr88! 👋
 
-Jestem pasjonatem programowania i technologii. Tutaj znajdziesz moje projekty i statystyki.
+Programowanie to moja pasja, którą rozwijam **amatorsko po godzinach**. Lubię tworzyć własne narzędzia i eksperymentować z kodem.
+
+📲 **Aktualnie:** Pracuję nad opublikowaniem kilku własnych aplikacji w **Google Play** i cały czas uczę się nowych technologii.
 
 ---
 
 ## 🚀 Moje Projekty
 
-### 1. [Nazwa Projektu 1](link-do-repozytorium-1)
-**O co chodzi:** Krótki opis, np. Aplikacja webowa do zarządzania zadaniami.
-**Technologie:** `Python`, `Django`, `PostgreSQL`
-> To był mój pierwszy duży projekt, w którym nauczyłem się architektury MVC.
+### 1. [HSR CMS](https://github.com/hsr88/hsrcms)
+**O co chodzi:** Mój autorski system zarządzania treścią (Content Management System).
+**Cel:** Stworzenie lekkiej i dopasowanej do moich potrzeb platformy.
 
-### 2. [Nazwa Projektu 2](link-do-repozytorium-2)
-**O co chodzi:** Krótki opis, np. Skrypt automatyzujący sortowanie plików.
-**Technologie:** `Bash`, `Linux`
-> Projekt stworzony, by zaoszczędzić czas przy codziennej pracy.
+### 2. [Log Voyager](https://github.com/hsr88/log-voyager)
+**O co chodzi:** Narzędzie / biblioteka ułatwiająca pracę z logami i danymi.
+**Technologie:** JavaScript
 
-### 3. [Nazwa Projektu 3](link-do-repozytorium-3)
-**O co chodzi:** Opis projektu...
-**Technologie:** ...
+### 3. [CyberToast JS](https://github.com/hsr88/cyber-toast-js)
+**O co chodzi:** Biblioteka powiadomień w stylu Cyberpunk/Sci-Fi.
+**Cechy:** Efekt "glitch", pisanie maszynowe (typewriter), zero zależności.
+
+### 4. [Glass Login Form](https://github.com/hsr88/glass-login-form)
+**O co chodzi:** Nowoczesny projekt interfejsu logowania wykorzystujący popularny efekt **Glassmorphism** (matowego szkła).
+**Technologie:** CSS3, HTML5
+
+### 5. [Modern Pricing Table](https://github.com/hsr88/modern-pricing-table-template)
+**O co chodzi:** Responsywny i estetyczny szablon tabeli cenowej, gotowy do użycia na stronach sprzedażowych.
 
 ---
 
-## 🛠️ Technologie i narzędzia
-* **Języki:** (np. Python, JavaScript, C++)
-* **Frameworki:** (np. React, Flask)
-* **Narzędzia:** Git, Docker, VS Code
+## 🛠️ Technologie
+* **Języki:** JavaScript, HTML, CSS
+* **Zainteresowania:** Web Development, Android (Google Play), UI/UX
 
 ---
 
@@ -38,4 +44,4 @@ Jestem pasjonatem programowania i technologii. Tutaj znajdziesz moje projekty i 
 ---
 
 ### 📫 Kontakt
-Możesz mnie znaleźć na [LinkedIn](link) lub napisać maila na: [twój@email.com]
+Znajdziesz mnie tutaj, na GitHubie!
