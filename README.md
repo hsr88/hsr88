@@ -44,4 +44,7 @@ Programowanie to moja pasja, którą rozwijam **amatorsko po godzinach**. Lubię
 ---
 
 ### 📫 Kontakt
-Znajdziesz mnie tutaj, na GitHubie!
+Chcesz się skontaktować? Znajdziesz mnie tutaj:
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/krystian-welcel/)
+[<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/KWelcel)
