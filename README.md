@@ -43,8 +43,11 @@ Programowanie to moja pasja, którą rozwijam **amatorsko po godzinach**. Lubię
 
 ---
 
-### 📫 Kontakt
-Chcesz się skontaktować? Znajdziesz mnie tutaj:
+### 📫 Kontakt i Portfolio
+Znajdziesz mnie tutaj:
+
+[<img src="https://img.shields.io/badge/Portfolio-hsr.in.net-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://hsr.in.net/)
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/krystian-welcel/)
+
 [<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/KWelcel)
