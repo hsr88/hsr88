@@ -43,6 +43,11 @@ Programowanie to moja pasja, którą rozwijam **amatorsko po godzinach**. Lubię
 
 ---
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G11RAU3K)
+
+---
+
+
 ### 📫 Kontakt i Portfolio
 Znajdziesz mnie tutaj:
 
