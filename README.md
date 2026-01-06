@@ -86,8 +86,8 @@ I am a hobbyist developer focused on building high-performance web applications 
 ### 📈 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hsr88&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" alt="hsr88's GitHub Stats" />
+<img src="https://komarev.com/ghpvc/?username=hsr88&color=58a6ff&style=flat-square&label=Profile+views" alt="Profile views" /> |
+<img src="https://github-readme-stats.vercel.app/api?username=hsr88&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" alt="hsr88's GitHub Stats" /> | 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsr88&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" alt="Top Languages" />
 
 </div>
