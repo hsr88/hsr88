@@ -1,58 +1,121 @@
-# Cześć, tu hsr88! 👋
+<h1 align="center">Hi there, I'm Krystian (hsr88) <img src="https://www.google.com/search?q=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-Programowanie to moja pasja, którą rozwijam **amatorsko po godzinach**. Lubię tworzyć własne narzędzia i eksperymentować z kodem.
+<h3 align="center">Hobbyist Developer | Coding After Hours | Open Source Creator</h3>
 
-📲 **Aktualnie:** Pracuję nad opublikowaniem kilku własnych aplikacji w **Google Play** i cały czas uczę się nowych technologii.
+<p align="center">
+Building <b>high-performance tools</b> for developers and solving real-world engineering problems in my spare time.
+</p>
 
----
+<p align="center">
+<a href="https://hsr.in.net/">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-hsr.in.net-blue%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-earth%26logoColor%3Dwhite" alt="Portfolio">
+</a>
+&nbsp;
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/twoj-profil/">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="https://play.google.com/store/apps/dev?id=8084676075237856472">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Google_Play-Dev_Profile-414141%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-play%26logoColor%3Dwhite" alt="Google Play Developer">
+</a>
+</p>
 
-## 🚀 Moje Projekty
+<p align="center">
+<a href="https://ko-fi.com/hsr">
+<img src="https://www.google.com/search?q=https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" />
+</a>
+</p>
 
-### 1. [HSR CMS](https://github.com/hsr88/hsrcms)
-**O co chodzi:** Mój autorski system zarządzania treścią (Content Management System).
-**Cel:** Stworzenie lekkiej i dopasowanej do moich potrzeb platformy.
+🚀 Featured Project: Log Voyager
 
-### 2. [Log Voyager](https://github.com/hsr88/log-voyager)
-**O co chodzi:** Narzędzie / biblioteka ułatwiająca pracę z logami i danymi.
-**Technologie:** JavaScript
+I built Log Voyager to solve a common DevOps headache: viewing massive log files without crashing the browser.
 
-### 3. [CyberToast JS](https://github.com/hsr88/cyber-toast-js)
-**O co chodzi:** Biblioteka powiadomień w stylu Cyberpunk/Sci-Fi.
-**Cechy:** Efekt "glitch", pisanie maszynowe (typewriter), zero zależności.
+"The missing tool for DevOps and Backend Developers."
 
-### 4. [Glass Login Form](https://github.com/hsr88/glass-login-form)
-**O co chodzi:** Nowoczesny projekt interfejsu logowania wykorzystujący popularny efekt **Glassmorphism** (matowego szkła).
-**Technologie:** CSS3, HTML5
+🔴 Problem: Text editors freeze/crash when opening 5GB+ log files.
 
-### 5. [Modern Pricing Table](https://github.com/hsr88/modern-pricing-table-template)
-**O co chodzi:** Responsywny i estetyczny szablon tabeli cenowej, gotowy do użycia na stronach sprzedażowych.
+🟢 Solution: A web app using File Slicing API to read chunks locally.
 
----
+⚡ Result: Instant loading of 10GB+ files with minimal RAM usage.
 
-## 🛠️ Technologie
-* **Języki:** JavaScript, HTML, CSS
-* **Zainteresowania:** Web Development, Android (Google Play), UI/UX
+<p align="left">
+<a href="https://github.com/hsr88/log-voyager">
+<img src="https://img.shields.io/github/stars/hsr88/log-voyager%3Fstyle%3Dsocial" alt="Stars">
+</a>
+<a href="https://logvoyager.cc">
+<img src="https://img.shields.io/website%3Furl%3Dhttps%253A%252F%252Flogvoyager.cc%26label%3Dlogvoyager.cc" alt="Website">
+</a>
+</p>
 
----
+👨‍💻 About Me
 
-## 📊 Statystyki GitHub
-![Statystyki hsr88](https://github-readme-stats.vercel.app/api?username=hsr88&show_icons=true&theme=radical)
-![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=hsr88&layout=compact&theme=radical)
+I am a hobbyist developer focused on building high-performance web applications and developer tools. I love optimizing "heavy" tasks to run smoothly in the browser.
 
-![Licznik odwiedzin](https://komarev.com/ghpvc/?username=hsr88&label=Odwiedziny%20profilu&color=0e75b6&style=flat)
+🔭 Current focus: React, TypeScript, and Web Performance.
 
----
+🛡️ Philosophy: Privacy-first & Local-first software.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G11RAU3K)
+📱 Mobile: Recently exploring Android development with Capacitor.
 
----
+⚡ Fun fact: I optimized a log viewer to run on a smartphone because I needed to debug a server while on a train.
+
+🛠️ Tech Stack
+
+<div align="center">
+
+Frontend
 
 
-### 📫 Kontakt i Portfolio
-Znajdziesz mnie tutaj:
 
-[<img src="https://img.shields.io/badge/Portfolio-hsr.in.net-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://hsr.in.net/)
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/krystian-welcel/)
 
-[<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/KWelcel)
+<img src="https://img.shields.io/badge/React-%252320232a.svg%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D%252361DAFB" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-%2523007ACC.svg%3Fstyle%3Dfor-the-badge%26logo%3Dtypescript%26logoColor%3Dwhite" alt="TypeScript" />
+<img src="https://img.shields.io/badge/TailwindCSS-%252338B2AC.svg%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite" alt="Tailwind" />
+<img src="https://img.shields.io/badge/Vite-%2523646CFF.svg%3Fstyle%3Dfor-the-badge%26logo%3Dvite%26logoColor%3Dwhite" alt="Vite" />
+
+Backend & Tools
+
+
+
+
+
+<img src="https://img.shields.io/badge/Node.js-%252343853D.svg%3Fstyle%3Dfor-the-badge%26logo%3Dnode.js%26logoColor%3Dwhite" alt="NodeJS" />
+<img src="ttps://img.shields.io/badge/Git-%2523F05033.svg%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git" />
+
+</div>
+
+📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api%3Fusername%3Dhsr88%26show_icons%3Dtrue%26theme%3Ddark%26hide_border%3Dtrue%26bg_color%3D0d1117" alt="hsr88's Github Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dhsr88%26layout%3Dcompact%26theme%3Ddark%26hide_border%3Dtrue%26bg_color%3D0d1117" alt="Top Languages" />
+</p>
+
+<details>
+<summary>🇵🇱 <b>Wersja Polska (Polish Version) - Kliknij, aby rozwinąć</b></summary>
+
+
+
+
+Cześć! Nazywam się Krystian. Jestem programistą-hobbystą, który po godzinach tworzy narzędzia rozwiązujące konkretne problemy inżynierskie.
+
+Mój główny projekt to Log Voyager – narzędzie, które powstało z frustracji, gdy mój laptop zawiesił się przy próbie otwarcia pliku logów o rozmiarze 5GB. Stworzyłem aplikację, która:
+
+Radzi sobie z gigantycznymi plikami w przeglądarce.
+
+Szanuje prywatność danych (przetwarzanie lokalne).
+
+Działa błyskawicznie dzięki technologii File Slicing.
+
+Technologie, w których pracuję:
+
+Frontend: React & TypeScript
+
+Backend: Node.js
+
+Mobile: Capacitor
+
+Zapraszam do kontaktu!
+
+</details>
