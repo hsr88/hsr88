@@ -1,4 +1,10 @@
-<h1 align="center">Hi there, I'm Krystian (hsr88) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<div align="center">
+
+# Hi there! 👋 I'm Krystian 👽
+
+> Building stuff that *sometimes* actually works 🚀
+
+</div>
 
 <h3 align="center">Hobbyist Developer | Coding After Hours | Open Source Creator</h3>
 
