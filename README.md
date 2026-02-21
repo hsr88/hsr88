@@ -47,6 +47,8 @@ I built Log Voyager to solve a common DevOps headache: viewing massive log files
 
 </div>
 
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
 ### 🧩 My Google Chrome Extensions
 
 * 🛡️ **[ConsentScope](https://www.consentscope.pro/)** | [Chrome Web Store](https://chromewebstore.google.com/detail/consentscope/bckfbligemognhkpoojinnlemmiaifmj)
