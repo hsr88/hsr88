@@ -47,6 +47,13 @@ I built Log Voyager to solve a common DevOps headache: viewing massive log files
 
 </div>
 
+### 🧩 My Google Chrome Extensions
+
+* 🛡️ **[ConsentScope](https://www.consentscope.pro/)** | [Chrome Web Store](https://chromewebstore.google.com/detail/consentscope/bckfbligemognhkpoojinnlemmiaifmj)
+    See what websites do before you consent.
+* 🤖 **[FB AI Reply](https://aireply.top/)** | [Chrome Web Store](https://chromewebstore.google.com/detail/fb-ai-reply/fainpbobnjkleakegodbangclicbfece)
+    Generate engaging, professional, or funny replies in one click. 7 AI personas that sound human. Works directly in your browser.
+
 <h2>👨‍💻 About Me</h2>
 
 I am a hobbyist developer focused on building high-performance web applications and developer tools. I love optimizing "heavy" tasks to run smoothly in the browser.
