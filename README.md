@@ -47,7 +47,7 @@ I built Log Voyager to solve a common DevOps headache: viewing massive log files
 
 </div>
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 ### 🧩 My Google Chrome Extensions
 
@@ -55,7 +55,7 @@ I built Log Voyager to solve a common DevOps headache: viewing massive log files
     See what websites do before you consent.
 * 🤖 **[FB AI Reply](https://aireply.top/)** | [Chrome Web Store](https://chromewebstore.google.com/detail/fb-ai-reply/fainpbobnjkleakegodbangclicbfece)
     Generate engaging, professional, or funny replies in one click. 7 AI personas that sound human. Works directly in your browser.
-
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
 <h2>👨‍💻 About Me</h2>
 
 I am a hobbyist developer focused on building high-performance web applications and developer tools. I love optimizing "heavy" tasks to run smoothly in the browser.
