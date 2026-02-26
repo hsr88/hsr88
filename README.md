@@ -46,6 +46,28 @@ I built Log Voyager to solve a common DevOps headache: viewing massive log files
 </a>
 
 </div>
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
+# csv.repair
+
+## A purely client-side tool for analyzing, querying, and fixing massive CSV files directly in the browser.
+
+*🔴 Problem: Excel limits rows and crashes on malformed 5M+ row CSV files.
+
+*🟢 Solution: Virtual scrolling, PapaParse streaming, and in-memory SQL queries via AlaSQL.
+
+*⚡ Result: Smoothly view, query, and structurally repair millions of rows locally.
+
+<div align="center">
+<a href="https://github.com/hsr88/csv-repair">
+<img src="https://img.shields.io/github/stars/hsr88/csv-repair?style=social" alt="GitHub Stars">
+</a>
+<p></p>
+
+  <a href="https://csv.repair">csv.repair</a> 
+  
+  
+</div>
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
