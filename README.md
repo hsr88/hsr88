@@ -50,7 +50,7 @@ I built Log Voyager to solve a common DevOps headache: viewing massive log files
 
 # csv.repair
 
-## A free, browser-based tool for analyzing, querying, and repairing broken or oversized CSV files. No file uploads — everything runs locally in your browser. Your data never leaves your machine.
+## A free, browser-based tool for analyzing, querying, and repairing broken or oversized CSV files. No file uploads - everything runs locally in your browser. Your data never leaves your machine.
 
 <div align="center">
 <a href="https://github.com/hsr88/csv-repair">
