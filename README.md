@@ -71,6 +71,8 @@ I built Log Voyager to solve a common DevOps headache: viewing massive log files
     See what websites do before you consent.
 * 🤖 **[FB AI Reply](https://aireply.top/)** | [Chrome Web Store](https://chromewebstore.google.com/detail/fb-ai-reply/fainpbobnjkleakegodbangclicbfece)
     Generate engaging, professional, or funny replies in one click. 7 AI personas that sound human. Works directly in your browser.
+* 📖 **[Aura Reader](https://auraread.me/)** | [Chrome Web Store](https://chromewebstore.google.com/detail/aura-reader/hbgibdfkehmalpdejbodkdnfacbfpmda) Aura is an online article reader that removes ads, sidebars, and clutter from any web page. Paste a link and get clean, readable text.
+  
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 <h2>👨‍💻 About Me</h2>
 
