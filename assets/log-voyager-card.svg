@@ -1,0 +1,24 @@
+<svg width="700" height="180" viewBox="0 0 700 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="180" rx="20" fill="#0D1117" stroke="#FF8C42" stroke-width="3"/>
+  <defs>
+    <linearGradient id="logGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF8C42" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#5B7FA5" stop-opacity="0.1"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="180" rx="20" fill="url(#logGrad)"/>
+  <!-- Log Icon -->
+  <text x="100" y="100" font-size="60" text-anchor="middle" fill="#FF8C42">📜</text>
+  <!-- Project Info -->
+  <text x="240" y="50" font-family="Fira Code, monospace" font-size="28" fill="#fff" font-weight="bold">Log Voyager</text>
+  <text x="240" y="75" font-family="Fira Code, monospace" font-size="14" fill="#5B7FA5">Local-First Log Viewer &amp; Analyzer</text>
+  <text x="240" y="110" font-family="Fira Code, monospace" font-size="12" fill="#aaa">
+    • Advanced filtering and full-text search
+  </text>
+  <text x="240" y="130" font-family="Fira Code, monospace" font-size="12" fill="#aaa">
+    • Works on desktop and mobile (Capacitor)
+  </text>
+  <text x="240" y="150" font-family="Fira Code, monospace" font-size="12" fill="#aaa">
+    • Privacy-first — all data stays on device
+  </text>
+</svg>
