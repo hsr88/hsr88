@@ -1,0 +1,26 @@
+<svg width="800" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="200" rx="24" fill="#0D1117" stroke="#FF8C42" stroke-width="2"/>
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF8C42" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#5B7FA5" stop-opacity="0.8"/>
+    </linearGradient>
+  </defs>
+  <!-- Origami Mouse (Mouzi) -->
+  <g transform="translate(400, 100) scale(0.6)">
+    <!-- Body (przeniesiony do osobnego pliku dla czytelności) -->
+    <path d="M-30,20 L-50,-20 L-20,-40 L20,-40 L50,-20 L30,20 Z" fill="url(#grad)" stroke="#fff" stroke-width="2" stroke-linejoin="round"/>
+    <!-- Ears -->
+    <polygon points="-45,-20 -40,-50 -20,-30" fill="url(#grad)" stroke="#fff" stroke-width="2"/>
+    <polygon points="45,-20 40,-50 20,-30" fill="url(#grad)" stroke="#fff" stroke-width="2"/>
+    <!-- Tail/Broom -->
+    <path d="M0,20 Q10,50 5,70" stroke="#fff" stroke-width="3" fill="none"/>
+    <rect x="-10" y="60" width="20" height="5" rx="2" fill="#FF8C42"/>
+    <!-- Eye -->
+    <circle cx="-10" cy="-15" r="3" fill="#fff"/>
+    <circle cx="10" cy="-15" r="3" fill="#fff"/>
+  </g>
+  <!-- Text -->
+  <text x="400" y="160" font-family="Fira Code, monospace" font-size="24" fill="#fff" text-anchor="middle" font-weight="bold">hsr88</text>
+  <text x="400" y="185" font-family="Fira Code, monospace" font-size="12" fill="#5B7FA5" text-anchor="middle">Privacy-First • Open Source • Minimalist UX</text>
+</svg>
