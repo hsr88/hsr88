@@ -1,151 +1,190 @@
-<div align="center">
-
-# Hi there! 👋 I'm Krystian 👽
-
-> Building stuff that *sometimes* actually works 🚀
-
-</div>
-
-<h3 align="center">Hobbyist Developer | Coding After Hours | Open Source Creator</h3>
-
+<!-- ==================== ANIMOWANY BANER SVG ==================== -->
 <p align="center">
-Building <b>high-performance tools</b> for developers and solving real-world engineering problems in my spare time.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF8C42&center=true&vCenter=true&width=600&lines=%F0%9F%91%BE+hsr88;%F0%9F%94%92+Privacy-First+Developer;%F0%9F%9B%A0%EF%B8%8F+Open+Source+Craftsman;%F0%9F%93%9C+Log+Voyager+%7C+%F0%9F%90%AD+Mouzi+%7C+%F0%9F%9B%A0%EF%B8%8F+csv.repair" alt="Typing SVG" />
 </p>
 
-<div align="center">
+<!-- ==================== ZAWIESZKA Z TEKSTEM ==================== -->
+<p align="center">
+  <a href="https://logvoyager.cc"><img src="https://img.shields.io/badge/%F0%9F%93%9C-Log_Voyager-FF8C42?style=for-the-badge&logo=firefox&logoColor=white&labelColor=2C3E50" alt="Log Voyager"/></a>
+  <a href="https://mouzi.cc"><img src="https://img.shields.io/badge/%F0%9F%90%AD%F0%9F%A7%B9-Mouzi-FF8C42?style=for-the-badge&logo=tauri&logoColor=white&labelColor=2C3E50" alt="Mouzi"/></a>
+  <a href="https://csv.repair"><img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F-csv.repair-FF8C42?style=for-the-badge&logo=typescript&logoColor=white&labelColor=2C3E50" alt="csv.repair"/></a>
+  <a href="https://ko-fi.com/hsr"><img src="https://img.shields.io/badge/%E2%98%95-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white&labelColor=2C3E50" alt="Ko-fi"/></a>
+</p>
 
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/hsrvibe)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krystian-welcel/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://hsr.gg)
+<br/>
 
-[![Support me on Ko-fi](https://img.shields.io/badge/Support%20me%20on%20Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/hsr)
+<!-- ==================== MROCZNY BANER SVG ==================== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hsr88/hsr88/main/assets/hero-banner.svg" alt="Hero Banner" width="800"/>
+</p>
 
-</div>
+<br/>
 
-<h3>🚀 Featured Project: Log Voyager</h3>
+<!-- ==================== WIZYTÓWKA Z FILOZOFIĄ ==================== -->
+<p align="center">
+  <table align="center" style="border-collapse: separate; border-spacing: 12px 0;">
+    <tr>
+      <td align="center" width="180" style="background-color: #2C3E50; border-radius: 16px; padding: 16px; color: #fff;">
+        <h3>🔒 Local-First</h3>
+        <p style="font-size: 12px;">Your data never<br/>leaves your machine</p>
+      </td>
+      <td align="center" width="180" style="background-color: #2C3E50; border-radius: 16px; padding: 16px; color: #fff;">
+        <h3>📖 Open Source</h3>
+        <p style="font-size: 12px;">MIT Licensed.<br/>Audit, fork, trust.</p>
+      </td>
+      <td align="center" width="180" style="background-color: #2C3E50; border-radius: 16px; padding: 16px; color: #fff;">
+        <h3>⚡ Minimalist UX</h3>
+        <p style="font-size: 12px;">Silent tray apps.<br/>Zero distractions.</p>
+      </td>
+    </tr>
+  </table>
+</p>
 
-I built Log Voyager to solve a common DevOps headache: viewing massive log files without crashing the browser.
+<br/>
 
-"The missing tool for DevOps and Backend Developers."
+<!-- ==================== FLAGOWE PROJEKTY ==================== -->
+<h2 align="center">🚀 Flagship Projects</h2>
 
-🔴 Problem: Text editors freeze/crash when opening 5GB+ log files.
+<!-- Log Voyager (pierwszy) -->
+<p align="center">
+  <a href="https://github.com/hsr88/log-voyager">
+    <img src="https://raw.githubusercontent.com/hsr88/hsr88/main/assets/log-voyager-card.svg" alt="Log Voyager Card" width="700"/>
+  </a>
+</p>
 
-🟢 Solution: A web app using File Slicing API to read chunks locally.
+**Log Voyager** is a high-performance log viewer that lets you open and analyze **10 GB+ log files directly in your browser** without crashing. It uses the File Slicing API to read only the visible chunk of the file, so RAM usage stays minimal regardless of file size. The built-in JSON prettifier, regex search with match highlighting, and warp-jump bookmarks make navigating massive logs fast and painless. Everything runs **100% client-side** — your logs never touch a server.
 
-⚡ Result: Instant loading of 10GB+ files with minimal RAM usage.
+<p align="center">
+  <a href="https://github.com/hsr88/log-voyager/stargazers"><img src="https://img.shields.io/github/stars/hsr88/log-voyager?style=for-the-badge&logo=github&color=FF8C42&labelColor=2C3E50"/></a>
+  <a href="https://logvoyager.cc"><img src="https://img.shields.io/badge/Live_App-logvoyager.cc-5B7FA5?style=for-the-badge&logo=firefox&logoColor=white&labelColor=2C3E50"/></a>
+</p>
 
-<div align="center">
+<br/>
 
-<a href="https://github.com/hsr88/log-voyager">
-  <img src="https://img.shields.io/github/stars/hsr88/log-voyager?style=social" alt="GitHub Stars">
-</a>
-<p></p>
+<!-- Mouzi (drugi) -->
+<p align="center">
+  <a href="https://github.com/hsr88/mouzi">
+    <img src="https://raw.githubusercontent.com/hsr88/hsr88/main/assets/mouzi-card.svg" alt="Mouzi Card" width="700"/>
+  </a>
+</p>
 
-<a href="https://logvoyager.cc">
-  <img src="https://img.shields.io/website?url=https%3A%2F%2Flogvoyager.cc&label=logvoyager.cc" alt="Website Status">
-</a>
+**Mouzi** is a silent, automatic file organizer for your desktop. It watches your **Downloads folder** (and any other folder you pick) and sorts new files into subdirectories — images to `Images/`, PDFs to `Documents/`, installers to `Installers/`, and more. The app lives in the system tray and does its job without popups or distractions. A custom rules engine lets you define your own sorting logic with dynamic placeholders (`{year}`, `{month}`). Every action is logged and can be undone with one click. **100% local, zero cloud uploads.**
 
-</div>
-<hr style="height:1px;border-width:0;color:gray;background-color:gray">
+<p align="center">
+  <a href="https://github.com/hsr88/mouzi/stargazers"><img src="https://img.shields.io/github/stars/hsr88/mouzi?style=for-the-badge&logo=github&color=FF8C42&labelColor=2C3E50"/></a>
+  <a href="https://mouzi.cc"><img src="https://img.shields.io/badge/Website-mouzi.cc-5B7FA5?style=for-the-badge&logo=safari&logoColor=white&labelColor=2C3E50"/></a>
+</p>
 
-# csv.repair
+<br/>
 
-## A free, browser-based tool for analyzing, querying, and repairing broken or oversized CSV files. No file uploads - everything runs locally in your browser. Your data never leaves your machine.
+<!-- csv.repair (trzeci) -->
+<p align="center">
+  <a href="https://github.com/hsr88/csv-repair">
+    <img src="https://raw.githubusercontent.com/hsr88/hsr88/main/assets/csv-repair-card.svg" alt="csv.repair Card" width="700"/>
+  </a>
+</p>
 
-<div align="center">
-<a href="https://github.com/hsr88/csv-repair">
-<img src="https://img.shields.io/github/stars/hsr88/csv-repair?style=social" alt="GitHub Stars">
-</a>
-<p></p>
+**csv.repair** is a free, browser-based tool that helps you **analyze, clean, and fix broken CSV files** without uploading them anywhere. It supports files with millions of rows via virtual scrolling, offers inline cell editing with full undo/redo, and even lets you run **SQL queries directly on your CSV data**. One-click auto-repair fixes whitespace issues, encoding problems, and empty rows. A health diagnostics panel instantly flags structural problems and malformed rows. Everything runs locally in the browser — your data stays private.
 
-  <a href="https://csv.repair">csv.repair</a> 
-  
-  
-</div>
+<p align="center">
+  <a href="https://github.com/hsr88/csv-repair/stargazers"><img src="https://img.shields.io/github/stars/hsr88/csv-repair?style=for-the-badge&logo=github&color=FF8C42&labelColor=2C3E50"/></a>
+  <a href="https://csv.repair"><img src="https://img.shields.io/badge/Live_App-csv.repair-5B7FA5?style=for-the-badge&logo=typescript&logoColor=white&labelColor=2C3E50"/></a>
+</p>
 
-<hr style="height:1px;border-width:0;color:gray;background-color:gray">
+<br/>
 
-### 🧩 My Google Chrome Extensions
+<!-- ==================== POZOSTAŁE PROJEKTY ==================== -->
+<h2 align="center">🧰 Other Projects</h2>
 
-* 🛡️ **[ConsentScope](https://www.consentscope.pro/)** | [Chrome Web Store](https://chromewebstore.google.com/detail/consentscope/bckfbligemognhkpoojinnlemmiaifmj)
-    See what websites do before you consent.
-* 🤖 **[FB AI Reply](https://aireply.top/)** | [Chrome Web Store](https://chromewebstore.google.com/detail/fb-ai-reply/fainpbobnjkleakegodbangclicbfece)
-    Generate engaging, professional, or funny replies in one click. 7 AI personas that sound human. Works directly in your browser.
-* 📖 **[Aura Reader](https://auraread.me/)** | [Chrome Web Store](https://chromewebstore.google.com/detail/aura-reader/hbgibdfkehmalpdejbodkdnfacbfpmda) Aura is an online article reader that removes ads, sidebars, and clutter from any web page. Paste a link and get clean, readable text.
-* 🔍 **[yaSEO](https://yaseo.app/)** | [Chrome Web Store](https://chromewebstore.google.com/detail/yaseo-seo-analyzer/fibonplfejiejffknnfjjkdonakilagj) Instant SEO analysis for any website. Check scores, meta tags, performance and more.
+<p align="center">
+  <a href="https://github.com/hsr88/aura-reader"><img src="https://img.shields.io/badge/📖_Aura_Reader-Distraction_Free_Reader-34495E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2C3E50"/></a>
+  <a href="https://github.com/hsr88/yaseo"><img src="https://img.shields.io/badge/🧪_yaSEO-SEO_Analyzer-34495E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2C3E50"/></a>
+  <a href="https://github.com/hsr88/consentscope"><img src="https://img.shields.io/badge/🍪_ConsentScope-Cookie_Analyzer-34495E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2C3E50"/></a>
+</p>
 
-  
-<hr style="height:1px;border-width:0;color:gray;background-color:gray">
-<h2>👨‍💻 About Me</h2>
+<br/>
 
-I am a hobbyist developer focused on building high-performance web applications and developer tools. I love optimizing "heavy" tasks to run smoothly in the browser.
+<!-- ==================== TECH STACK ==================== -->
+<h2 align="center">⚙️ Tech Stack</h2>
 
-* 🔭 Current focus: React, TypeScript, and Web Performance.
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white"/>
+</p>
 
-* 🛡️ Philosophy: Privacy-first & Local-first software.
+<br/>
 
-* 📱 Mobile: Recently exploring Android development with Capacitor.
+<!-- ==================== ABOUT ME ==================== -->
+<h2 align="center">👤 About Me</h2>
 
-* ⚡ Fun fact: I optimized a log viewer to run on a smartphone because I needed to debug a server while on a train.
+<p align="center">
+  I am a hobbyist developer focused on building high-performance web applications and developer tools. I love optimizing "heavy" tasks to run smoothly in the browser and building privacy-first software that respects the user. All my tools are free and open source. I work on these projects in my spare time, driven by a passion for solving real engineering problems without compromising on simplicity or privacy.
+</p>
 
-<h3>🛠️ Tech Stack</h3>
+<p align="center">
+  <a href="https://x.com/hsrvibe"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/krystian-welcel/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://hsr.gg"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
+  <a href="https://ko-fi.com/hsr"><img src="https://img.shields.io/badge/Support_me_on_Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+</p>
 
-<div align="center">
+<br/>
 
+<!-- ==================== STATYSTYKI GITHUB ==================== -->
+<h2 align="center">📊 GitHub Stats</h2>
 
+<p align="center">
+  <a href="https://github.com/hsr88">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hsr88&show_icons=true&theme=dark&hide_border=false&border_color=FF8C42&bg_color=0D1117&title_color=FF8C42&icon_color=5B7FA5&text_color=FFFFFF&hide_title=true"/>
+  </a>
+  <a href="https://github.com/hsr88">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsr88&layout=compact&theme=dark&hide_border=false&border_color=FF8C42&bg_color=0D1117&title_color=FF8C42&text_color=FFFFFF&hide_title=true"/>
+  </a>
+</p>
 
+<!-- GitHub Trophies -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=hsr88&theme=darkhub&column=7&margin-w=15&margin-h=15&no-frame=false&title=MultiLanguage,Commit,Followers,Repositories,Stars,PullRequest,Issues" alt="GitHub Trophies"/>
+  </a>
+</p>
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+<br/>
 
-
-
-
-
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-### 📈 GitHub Stats
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=hsr88&color=58a6ff&style=flat-square&label=Profile+views" alt="Profile views" /> |
-<img src="https://github-readme-stats.vercel.app/api?username=hsr88&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" alt="hsr88's GitHub Stats" /> | 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsr88&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" alt="Top Languages" />
-
-</div>
-
-
-<details>
-<summary>🇵🇱 <b>Wersja Polska (Polish Version) - Kliknij, aby rozwinąć</b></summary>
-
-
-
-
-Cześć, tu Krystian! Jestem programistą-hobbystą, który po godzinach tworzy narzędzia rozwiązujące konkretne problemy.
-
-Mój główny projekt to Log Voyager – narzędzie, które powstało z frustracji, gdy mój laptop zawiesił się przy próbie otwarcia pliku logów o rozmiarze 5GB. Stworzyłem aplikację, która:
-
-Radzi sobie z gigantycznymi plikami w przeglądarce.
-
-Szanuje prywatność danych (przetwarzanie lokalne).
-
-Działa błyskawicznie dzięki technologii File Slicing.
-
-Technologie, w których pracuję:
-
-Frontend: React & TypeScript
-
-Backend: Node.js
-
-Mobile: Capacitor
-
-Zapraszam do kontaktu! https://hsr.in.net/ 
-
+<!-- ==================== WYKRES AKTYWNOŚCI ==================== -->
+<details align="center">
+  <summary><b>🔥 Contribution Streak</b></summary>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=hsr88&theme=dark&hide_border=true&border_radius=16&background=0D1117&ring=FF8C42&fire=FF8C42&sideNums=FFFFFF&currStreakLabel=FF8C42&sideLabels=5B7FA5&dates=5B7FA5&currStreakNum=FFFFFF" alt="GitHub Streaks"/>
 </details>
+
+<br/>
+
+<!-- ==================== ANIMOWANY CYTAT PROGRAMISTYCZNY ==================== -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20tool%20is%20the%20one%20you%20forget%20is%20running.&author=hsr88" alt="Random Dev Quote"/>
+</p>
+
+<br/>
+
+<!-- ==================== WSPARCIE I KONTAKT ==================== -->
+<h2 align="center">🤝 Support & Contact</h2>
+
+<p align="center">
+  <a href="https://ko-fi.com/hsr"><img src="https://img.shields.io/badge/☕_Buy_Me_a_Coffee-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white&labelColor=2C3E50"/></a>
+  <a href="https://linkedin.com/in/krystian-welcel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2C3E50"/></a>
+  <a href="mailto:hsr@mouzi.cc"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2C3E50"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/hsr88?tab=followers">
+    <img src="https://img.shields.io/github/followers/hsr88?label=Follow%20Me&style=social"/>
+  </a>
+  <a href="https://ko-fi.com/hsr">
+    <img src="https://img.shields.io/badge/Ko--fi-Support%20on%20Ko--fi-FF5E5B?style=flat&logo=ko-fi"/>
+  </a>
+</p>
