@@ -167,7 +167,7 @@
 
 <!-- ==================== ANIMOWANY CYTAT PROGRAMISTYCZNY ==================== -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20tool%20is%20the%20one%20you%20forget%20is%20running.&author=hsr88" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Coding%20after%20hours..&author=hsr88" alt="Dev Quote"/>
 </p>
 
 <br/>
