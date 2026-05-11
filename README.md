@@ -178,7 +178,7 @@
 <p align="center">
   <a href="https://ko-fi.com/hsr"><img src="https://img.shields.io/badge/☕_Buy_Me_a_Coffee-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white&labelColor=2C3E50"/></a>
   <a href="https://linkedin.com/in/krystian-welcel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2C3E50"/></a>
-  <a href="mailto:hsr@mouzi.cc"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2C3E50"/></a>
+  <a href="mailto:haser88@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2C3E50"/></a>
 </p>
 <p align="center">
   <a href="https://github.com/hsr88?tab=followers">
