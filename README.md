@@ -97,9 +97,9 @@
 <h2 align="center">🧰 Other Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/hsr88/aura-reader"><img src="https://img.shields.io/badge/📖_Aura_Reader-Distraction_Free_Reader-34495E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2C3E50"/></a>
-  <a href="https://github.com/hsr88/yaseo"><img src="https://img.shields.io/badge/🧪_yaSEO-SEO_Analyzer-34495E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2C3E50"/></a>
-  <a href="https://github.com/hsr88/consentscope"><img src="https://img.shields.io/badge/🍪_ConsentScope-Cookie_Analyzer-34495E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2C3E50"/></a>
+  <a href="https://auraread.me/"><img src="https://img.shields.io/badge/📖_Aura_Reader-Distraction_Free_Reader-34495E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2C3E50"/></a>
+  <a href="https://yaseo.app"><img src="https://img.shields.io/badge/🧪_yaSEO-SEO_Analyzer-34495E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2C3E50"/></a>
+  <a href="https://consentscope.pro"><img src="https://img.shields.io/badge/🍪_ConsentScope-Cookie_Analyzer-34495E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2C3E50"/></a>
 </p>
 
 <br/>
