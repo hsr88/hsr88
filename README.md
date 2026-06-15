@@ -44,8 +44,21 @@
 
 <!-- ==================== FLAGOWE PROJEKTY ==================== -->
 <h2 align="center">🚀 Flagship Projects</h2>
+<!-- Mouzi  -->
+<p align="center">
+  <a href="https://github.com/hsr88/mouzi">
+    <img src="https://raw.githubusercontent.com/hsr88/hsr88/main/assets/mouzi-card.svg" alt="Mouzi Card" width="700"/>
+  </a>
+</p>
 
-<!-- Log Voyager (pierwszy) -->
+**Mouzi** is a silent, automatic file organizer for your desktop. It watches your **Downloads folder** (and any other folder you pick) and sorts new files into subdirectories — images to `Images/`, PDFs to `Documents/`, installers to `Installers/`, and more. The app lives in the system tray and does its job without popups or distractions. A custom rules engine lets you define your own sorting logic with dynamic placeholders (`{year}`, `{month}`). Every action is logged and can be undone with one click. **100% local, zero cloud uploads.**
+
+<p align="center">
+  <a href="https://github.com/hsr88/mouzi/stargazers"><img src="https://img.shields.io/github/stars/hsr88/mouzi?style=for-the-badge&logo=github&color=FF8C42&labelColor=2C3E50"/></a>
+  <a href="https://mouzi.cc"><img src="https://img.shields.io/badge/Website-mouzi.cc-5B7FA5?style=for-the-badge&logo=safari&logoColor=white&labelColor=2C3E50"/></a>
+</p>
+<br/>
+<!-- Log Voyager  -->
 <p align="center">
   <a href="https://github.com/hsr88/log-voyager">
     <img src="https://raw.githubusercontent.com/hsr88/hsr88/main/assets/log-voyager-card.svg" alt="Log Voyager Card" width="700"/>
@@ -59,21 +72,8 @@
   <a href="https://logvoyager.cc"><img src="https://img.shields.io/badge/Live_App-logvoyager.cc-5B7FA5?style=for-the-badge&logo=firefox&logoColor=white&labelColor=2C3E50"/></a>
 </p>
 
-<br/>
 
-<!-- Mouzi (drugi) -->
-<p align="center">
-  <a href="https://github.com/hsr88/mouzi">
-    <img src="https://raw.githubusercontent.com/hsr88/hsr88/main/assets/mouzi-card.svg" alt="Mouzi Card" width="700"/>
-  </a>
-</p>
 
-**Mouzi** is a silent, automatic file organizer for your desktop. It watches your **Downloads folder** (and any other folder you pick) and sorts new files into subdirectories — images to `Images/`, PDFs to `Documents/`, installers to `Installers/`, and more. The app lives in the system tray and does its job without popups or distractions. A custom rules engine lets you define your own sorting logic with dynamic placeholders (`{year}`, `{month}`). Every action is logged and can be undone with one click. **100% local, zero cloud uploads.**
-
-<p align="center">
-  <a href="https://github.com/hsr88/mouzi/stargazers"><img src="https://img.shields.io/github/stars/hsr88/mouzi?style=for-the-badge&logo=github&color=FF8C42&labelColor=2C3E50"/></a>
-  <a href="https://mouzi.cc"><img src="https://img.shields.io/badge/Website-mouzi.cc-5B7FA5?style=for-the-badge&logo=safari&logoColor=white&labelColor=2C3E50"/></a>
-</p>
 
 <br/>
 
