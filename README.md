@@ -1,54 +1,23 @@
 <!-- ==================== ANIMOWANY BANER SVG ==================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF8C42&center=true&vCenter=true&width=600&lines=%F0%9F%91%BE+hsr88;%F0%9F%94%92+Privacy-First+Developer;%F0%9F%9B%A0%EF%B8%8F+Open+Source+Craftsman;%F0%9F%93%9C+Log+Voyager+%7C+%F0%9F%90%AD+Mouzi+%7C+%F0%9F%9B%A0%EF%B8%8F+csv.repair" alt="Typing SVG" />
-</p>
-
+<a href="https://straycode.dev/">
+  <img src="https://img.shields.io/badge/%F0%9F%93%9D_Blog-straycode.dev-FF8C42?style=for-the-badge&labelColor=2C3E50" alt="Blog"/>
+</a></p>
 <!-- ==================== ZAWIESZKA Z TEKSTEM ==================== -->
-<p align="center">
-  <a href="https://logvoyager.cc"><img src="https://img.shields.io/badge/%F0%9F%93%9C-Log_Voyager-FF8C42?style=for-the-badge&logo=firefox&logoColor=white&labelColor=2C3E50" alt="Log Voyager"/></a>
-  <a href="https://mouzi.cc"><img src="https://img.shields.io/badge/%F0%9F%90%AD%F0%9F%A7%B9-Mouzi-FF8C42?style=for-the-badge&logo=tauri&logoColor=white&labelColor=2C3E50" alt="Mouzi"/></a>
-  <a href="https://csv.repair"><img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F-csv.repair-FF8C42?style=for-the-badge&logo=typescript&logoColor=white&labelColor=2C3E50" alt="csv.repair"/></a>
-  <a href="https://ko-fi.com/hsr"><img src="https://img.shields.io/badge/%E2%98%95-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white&labelColor=2C3E50" alt="Ko-fi"/></a>
-</p>
 
-<br/>
+
 
 <!-- ==================== MROCZNY BANER SVG ==================== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hsr88/hsr88/main/assets/hero-banner.svg" alt="Hero Banner" width="800"/>
-</p>
 
-<br/>
-
-<!-- ==================== WIZYTÓWKA Z FILOZOFIĄ ==================== -->
-<p align="center">
-  <table align="center" style="border-collapse: separate; border-spacing: 12px 0;">
-    <tr>
-      <td align="center" width="180" style="background-color: #2C3E50; border-radius: 16px; padding: 16px; color: #fff;">
-        <h3>🔒 Local-First</h3>
-        <p style="font-size: 12px;">Your data never<br/>leaves your machine</p>
-      </td>
-      <td align="center" width="180" style="background-color: #2C3E50; border-radius: 16px; padding: 16px; color: #fff;">
-        <h3>📖 Open Source</h3>
-        <p style="font-size: 12px;">MIT Licensed.<br/>Audit, fork, trust.</p>
-      </td>
-      <td align="center" width="180" style="background-color: #2C3E50; border-radius: 16px; padding: 16px; color: #fff;">
-        <h3>⚡ Minimalist UX</h3>
-        <p style="font-size: 12px;">Silent tray apps.<br/>Zero distractions.</p>
-      </td>
-    </tr>
-  </table>
-</p>
-
-<br/>
 
 <!-- ==================== FLAGOWE PROJEKTY ==================== -->
-<h2 align="center">🚀 Flagship Projects</h2>
+<h2 align="center">Projects</h2>
 <!-- Mouzi  -->
 <p align="center">
   <a href="https://github.com/hsr88/mouzi">
     <img src="https://raw.githubusercontent.com/hsr88/hsr88/main/assets/mouzi-card.svg" alt="Mouzi Card" width="700"/>
   </a>
+  
 </p>
 
 **Mouzi** is a silent, automatic file organizer for your desktop. It watches your **Downloads folder** (and any other folder you pick) and sorts new files into subdirectories — images to `Images/`, PDFs to `Documents/`, installers to `Installers/`, and more. The app lives in the system tray and does its job without popups or distractions. A custom rules engine lets you define your own sorting logic with dynamic placeholders (`{year}`, `{month}`). Every action is logged and can be undone with one click. **100% local, zero cloud uploads.**
@@ -131,6 +100,9 @@
   <a href="https://www.linkedin.com/in/krystian-welcel/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://hsr.gg"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
   <a href="https://ko-fi.com/hsr"><img src="https://img.shields.io/badge/Support_me_on_Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+  <a href="https://straycode.dev/">
+  <img src="https://img.shields.io/badge/Blog-straycode.dev-FF8C42?style=for-the-badge&logo=markdown&logoColor=white&labelColor=2C3E50" alt="Blog"/>
+</a>
 </p>
 
 <br/>
