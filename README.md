@@ -73,7 +73,7 @@ Open your localhost project on a phone or tablet with one scan - without manuall
 - 📖 [Aura Reader](https://auraread.me/) - distraction-free reading
 - 🔢 [Binary Translator](https://binarytranslator.org/) - convert text, binary, hexadecimal, decimal, and octal values
 - 🖼️ [Classic View for Google Images™](https://chromewebstore.google.com/detail/classic-view-for-google-i/ncljfdlnfncafnmcfbdkobjdpfiodfcg) - Restores the classic horizontal grid layout in Google Images, brings back the View Image button, hover zoom, and hides clutter.
-
+- 📇 [CSV Repair](https://www.csv.repair/) - A free, browser-based tool for analyzing, querying, and repairing broken or oversized CSV files.
 ---
 
 ## 🛠️ Tech stack
