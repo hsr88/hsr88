@@ -103,7 +103,13 @@ Most of my projects are free and open source, built after hours to solve real pr
 I also write about building things for the web at **[straycode.dev](https://straycode.dev/)**.
 
 ---
+## ❤️ Support my work
 
+I build and maintain my open-source projects after hours. Sponsorship helps me spend more consistent time on development, testing, documentation, and support.
+
+If Mouzi or one of my other projects has been useful to you, you can support my work through [GitHub Sponsors](https://github.com/sponsors/hsr88) or [Ko-fi](https://ko-fi.com/hsr).
+
+---
 ## 🤝 Contact
 
 [Blog](https://straycode.dev/) ·
