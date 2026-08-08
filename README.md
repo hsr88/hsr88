@@ -6,7 +6,7 @@ I build practical, privacy-first software for the web and desktop - with a focus
 [![Blog](https://img.shields.io/badge/Blog-straycode.dev-24292f?style=flat-square)](https://straycode.dev)
 [![X](https://img.shields.io/badge/X-@hsrvibe-24292f?style=flat-square&logo=x)](https://x.com/hsrvibe)
 [![Support me on Ko-fi](https://img.shields.io/badge/☕_Support_me_on_Ko--fi-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/hsr)
-
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsor-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/hsr88)
 ---
 
 ## 🐭 Mouzi
